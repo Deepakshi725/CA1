@@ -41,6 +41,9 @@
     width: 50px;
     background-color: aliceblue;
 }
+.new-box{
+    display: none;
+}
 .search-input{
     width:800px;
     font-size: 1.5rem;
